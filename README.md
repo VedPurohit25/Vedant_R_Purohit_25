@@ -27,7 +27,7 @@
 * [cite_start]**LinkedIn:** [linkedin.com/in/vedant-purohit-b53442211](https://www.linkedin.com/in/vedant-purohit-b53442211) [cite: 2]
 * **Portfolio:** You're looking at it! 
 * [cite_start]**Email:** [purohitwishwaraj908@gmail.com](mailto:purohitwishwaraj908@gmail.com) [cite: 2]
-* ** Website-Page** https://VedPurohit25.github.io/Vedant_R_Purohit.io/about/VRP_Portfolio.html
+* ** Website-Page** https://VedPurohit25.github.io/Vedant_R_Purohit.io/about/index.html
 
 * 🚀 Enhanced Project Descriptions
 
